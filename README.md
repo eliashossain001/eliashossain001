@@ -8,8 +8,8 @@ Experience in graduate-level Software Engineering research. Extensively publishe
 * Deep Learning 
 * Bioinformatics 
 ### 👯 Research & Publication
-1. Manuscript title: “Design And Development Of MGA System: A Maternity Guidance Light Weight Mobile Application”.  Author: Mst. Umme Kulsum, Arshadina Umra Najib, Md. Elias Hossain*. <h4>IEEE SPICSCON 2019. https://ieeexplore.ieee.org/document/9064867 </h4>
-2. Manuscript title: “Efficient Anti-Kidnapping and Anti-Harassment (Avoidance-Detection-Notification) Mobile Application for Unwanted Incidents”.  Author: Md. Elias Hossain, Mostafijur Rahman, Khandker M Qaiduzzaman, Asif Khan Shakir, Md Maruf Hassan. <h4>2019 IEEE Student Conference on Research and Development (SCOReD). https://doi.org/10.1109/SCORED.2019.8896280 </h4>
+1. Manuscript title: “Design And Development Of MGA System: A Maternity Guidance Light Weight Mobile Application”.  Author: Mst. Umme Kulsum, Arshadina Umra Najib, Md. Elias Hossain*.# IEEE SPICSCON 2019. https://ieeexplore.ieee.org/document/9064867
+2. Manuscript title: “Efficient Anti-Kidnapping and Anti-Harassment (Avoidance-Detection-Notification) Mobile Application for Unwanted Incidents”.  Author: Md. Elias Hossain, Mostafijur Rahman, Khandker M Qaiduzzaman, Asif Khan Shakir, Md Maruf Hassan. # 2019 IEEE Student Conference on Research and Development (SCOReD). https://doi.org/10.1109/SCORED.2019.8896280 
 
 
 
