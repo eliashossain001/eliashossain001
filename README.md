@@ -1,7 +1,7 @@
 ### Md. Elias Hossain 
 Experience in graduate-level Software Engineering research. Extensively published in international journals, conference with related expertise in Computer Science and Software Engineering. My research interest focuses on various intelligent systems, and I am also very keen to learn more about this.
-[![LinkedIn Connect] (https://image.flaticon.com/icons/png/128/91/91935.png)]
-(https://www.linkedin.com/in/elias-hossain-b70678160/)
+![GitHub Logo](https://image.flaticon.com/icons/png/128/91/91935.png)
+
 <!--
 **eliashossain001/eliashossain001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
