@@ -12,6 +12,17 @@ Experience in graduate-level Software Engineering research. Extensively publishe
 * Google Scholar: https://scholar.google.com/citations?user=l0L1NPAAAAAJ&hl=en&authuser=3
 * ResearchGate  : https://www.researchgate.net/profile/Elias_Hossain7  
 
+### 🔭 My Stack
+{
+  "Machine Learning": ["Supervised Learning", "Unsupervised Learning"], 
+  "NLP" : ["NLTK","Text Preprocessing","Stemming", "Lemmatization", "LSTM", "TF-IDF", "LSTM", "Word2Vec", "Bag of Words (BOW)"], 
+  "Backend": ["Flask", "DJango_REST"], 
+  "Software Development": ["Android"], 
+  "Programming Language": ["Java", "Python"]
+  
+  
+}
+
 ### 📫 Reach me 
 * LinkedIn: https://www.linkedin.com/in/elias-hossain-b70678160/ 
 * Twitter: https://twitter.com/eliashossain_
