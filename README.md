@@ -13,7 +13,7 @@ Experience in graduate-level Software Engineering research. Extensively publishe
 * ResearchGate  : https://www.researchgate.net/profile/Elias_Hossain7  
 
 <a href="https://www.linkedin.com/in/elias-hossain-b70678160/">
-         <img alt="Qries" src="https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png"
+         <img alt="Qries" src="https://www.flaticon.com/premium-icon/linkedin_665212"
          width=150" height="70">
 
 
