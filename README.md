@@ -7,6 +7,9 @@ Experience in graduate-level Software Engineering research. Extensively publishe
 * Natural Language Processing 
 * Deep Learning 
 * Bioinformatics 
+### 👯 Research & Publication
+1. Manuscript title: “Design And Development Of MGA System: A Maternity Guidance Light Weight Mobile Application”.  Author: Mst. Umme Kulsum, Arshadina Umra Najib, Md. Elias Hossain*. IEEE SPICSCON 2019. https://ieeexplore.ieee.org/document/9064867  
+
 
 
 
