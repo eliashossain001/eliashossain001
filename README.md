@@ -10,6 +10,7 @@ Experience in graduate-level Software Engineering research. Extensively publishe
     {
      "Machine Learning": ["Supervised Learning", "Unsupervised Learning"], 
      "NLP" : ["NLTK","Text Preprocessing","Stemming", "Lemmatization", "LSTM", "TF-IDF", "LSTM", "Word2Vec", "Bag of Words (BOW)"], 
+     "Deep Learning":["ANN", "CNN", "LSTM", "Keras", "Tensorflow", "Keras text preprocessing"]
      "Backend": ["Flask", "DJango_REST"], 
      "Software Development": ["Android"], 
     "Programming Language": ["Java", "Python"]
