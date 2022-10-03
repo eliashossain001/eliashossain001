@@ -4,7 +4,8 @@ I am a Computer Science graduate... My research field is mainly on Machine Learn
   
 ### 👯 Research & Publication
 * Google Scholar: https://scholar.google.com/citations?user=l0L1NPAAAAAJ&hl=en&authuser=3
-* ResearchGate  : https://www.researchgate.net/profile/Elias_Hossain7  
+* ResearchGate  : https://www.researchgate.net/profile/Elias_Hossain7
+* Medium        : https://medium.com/@eliashossain9111
 
 ### 📫 Personal webpage
 * https://eliashossain001.github.io/
