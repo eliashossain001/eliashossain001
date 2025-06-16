@@ -13,7 +13,8 @@ I am a Computer Science graduate and incoming PhD student, specializing in Machi
 ## 🔧 Technical Expertise
 ```json
 {
-  "LLMs & Transformers": ["BERT", "RoBERTa", "BioBERT", "LLaMA", "GPT-4", "Fine-tuning (SFT, DPO)", "Prompt Engineering", "HuggingFace", "LangChain"],
+  "LLMs & Transformers": ["BERT", "RoBERTa", "BioBERT", "LLaMA", "GPT-4", "HuggingFace", "LangChain"],
+  "LLM Training": ["Pre-training", "Fine-tuning (SFT, DPO)", "Prompt Engineering"],
   "NLP & Speech": ["Text Preprocessing", "TF-IDF", "Word2Vec", "Topic Modeling", "NER", "Speech-to-Text", "Text-to-Speech"],
   "Deep Learning & ML": ["CNN", "LSTM", "Transformers", "Ensemble Learning", "Keras", "TensorFlow", "PyTorch", "Scikit-learn"],
   "Backend & API": ["Django", "Django REST", "Flask", "FastAPI", "Gradio", "OpenAI API"],
