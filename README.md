@@ -1,4 +1,4 @@
-# Elias Hossain - PhD Student & AI Researcher
+# Elias Hossain - PhD Student & AI/ML Researcher
 
 I am a Computer Science graduate and incoming PhD student, specializing in Machine Learning and Natural Language Processing (NLP). My journey has been one of continuous growth, tackling complex challenges, and contributing to innovative solutions. I am passionate about advancing research and development in these fields.
 
