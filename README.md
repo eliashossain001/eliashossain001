@@ -1,4 +1,7 @@
-# Elias Hossain - PhD Student & AI/ML Researcher
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Elias😎!;" />
+</h1>
+<h2 align="center">PhD Student | Software Engineer (ML/AI) 🔭</h2>
 
 I am a Computer Science graduate and incoming PhD student, specializing in Machine Learning and Natural Language Processing (NLP). My journey has been one of continuous growth, tackling complex challenges, and contributing to innovative solutions. I am passionate about advancing research and development in these fields.
 
