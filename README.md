@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Elias😎!;" />
 </h1>
-<h2 align="center">𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 | 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 | 𝑨𝑳/𝑴𝑳 𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓</h2>
+<h2 align="center">🅶🆁🅰🅳🆄🅰🆃🅴 🆂🆃🆄🅳🅴🅽🆃 | 🆂🅾🅵🆃🆆🅰🆁🅴 🅴🅽🅶🅸🅽🅴🅴🆁 | 🅰🅸/🅼🅻 🆁🅴🆂🅴🅰🆁🅲🅷🅴🆁</h2>
 
 I am a Computer Science graduate and incoming PhD student, specializing in Machine Learning and Natural Language Processing (NLP). My journey has been one of continuous growth, tackling complex challenges, and contributing to innovative solutions. I am passionate about advancing research and development in these fields.
 
