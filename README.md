@@ -16,14 +16,15 @@ I am a Computer Science graduate and incoming PhD student, specializing in Machi
 ## 🔧 Technical Expertise
 ```json
 {
-  "LLMs & Transformers": ["BERT", "RoBERTa", "BioBERT", "LLaMA", "GPT-4", "HuggingFace", "LangChain"],
-  "LLM Training": ["Pre-training", "Fine-tuning (SFT, DPO)", "Prompt Engineering"],
-  "NLP & Speech": ["Text Preprocessing", "TF-IDF", "Word2Vec", "Topic Modeling", "NER", "Speech-to-Text", "Text-to-Speech"],
-  "Deep Learning & ML": ["CNN", "LSTM", "Transformers", "Ensemble Learning", "Keras", "TensorFlow", "PyTorch", "Scikit-learn"],
-  "Backend & API": ["Django", "Django REST", "Flask", "FastAPI", "Gradio", "OpenAI API"],
-  "Software Development": ["Browser Extensions", "Desktop Apps", "PowerPoint & Excel Add-ins", "Linux Compatibility"],
-  "Languages & Tools": ["Python", "C#", "Java", "C++", "JavaScript", "Docker", "Git", "Linux"]
+  "Open-Source LLMs": ["LLaMA", "Mistral", "Qwen", "Gemma", "CodeLLaMA", "HuggingFace Transformers"],
+  "LLM Lifecycle": ["Pre-training", "Fine-tuning (SFT, DPO)", "Continual Pre-training", "LLM Security"],
+  "Machine Learning & NLP": ["Statistical ML", "TF-IDF", "Word2Vec", "NER", "Topic Modeling", "Transformers"],
+  "Deep Learning": ["CNN", "LSTM", "Attention Mechanisms", "Ensemble Learning", "PyTorch", "TensorFlow"],
+  "Backend & API": ["Django", "Django REST Framework", "Node.js", "FastAPI", "RESTful APIs"],
+  "Software Development": ["Backend Systems", "Browser Extensions", "Excel & PowerPoint Add-ins", "Linux Applications"],
+  "Languages & Tools": ["Python", "JavaScript", "C#", "C++", "Git", "Docker", "Linux"]
 }
+
 ```
 
 ### 📫 Reach me 
