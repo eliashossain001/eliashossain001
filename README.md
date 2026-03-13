@@ -3,7 +3,7 @@
 </h1>
 <h2 align="center">𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓 | 𝑷𝒉𝑫 𝑺𝒕𝒖𝒅𝒆𝒏𝒕_</h2>
 
-I am a Computer Science graduate and incoming PhD student, specializing in Machine Learning and Natural Language Processing (NLP). My journey has been one of continuous growth, tackling complex challenges, and contributing to innovative solutions. I am passionate about advancing research and development in these fields.
+I am a PhD student at the University of Central Florida, USA, specializing in Machine Learning and Natural Language Processing (NLP). My journey has been one of continuous growth, tackling complex challenges, and contributing to innovative solutions. I am passionate about advancing research and development in these fields.
 
 ## 👨‍💻 Research & Publications
 - [Google Scholar](https://scholar.google.com/citations?user=l0L1NPAAAAAJ&hl=en&authuser=3)
