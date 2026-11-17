@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=34&pause=1200&center=true&vCenter=true&width=600&height=70&duration=4000&color=2560B1&lines=Hi%2C+I'm+Elias+%F0%9F%91%8B;Reliable+LLMs%2C+Judges+%26+Agents;PhD+Candidate+%40+UCF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=34&pause=1200&center=true&vCenter=true&width=600&height=70&duration=4000&color=1F3A5F&lines=Hi%2C+I'm+Elias+%F0%9F%91%8B;Reliable+LLMs%2C+Judges+%26+Agents;PhD+Candidate+%40+UCF" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Machine Learning Researcher &nbsp;|&nbsp; PhD Candidate @ University of Central Florida</h3>
@@ -15,12 +15,12 @@
 </p>
 
 <p align="center">
-  <a href="https://eliashossain001.github.io/"><img src="https://img.shields.io/badge/Website-2560B1?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"></a>
-  <a href="https://scholar.google.com/citations?user=l0L1NPAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://huggingface.co/EliasHossain"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://www.linkedin.com/in/elias-hossain-7448a736a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@eliashossain9111"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:mdelias.hossain@ucf.edu"><img src="https://img.shields.io/badge/Email-mdelias.hossain%40ucf.edu-C2391A?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"></a>
+  <a href="https://eliashossain001.github.io/"><img src="https://img.shields.io/badge/Website-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?user=l0L1NPAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-1F3A5F?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://huggingface.co/EliasHossain"><img src="https://img.shields.io/badge/Hugging%20Face-1F3A5F?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
+  <a href="https://www.linkedin.com/in/elias-hossain-7448a736a/"><img src="https://img.shields.io/badge/LinkedIn-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@eliashossain9111"><img src="https://img.shields.io/badge/Medium-1F3A5F?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:mdelias.hossain@ucf.edu"><img src="https://img.shields.io/badge/Email-1F3A5F?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  📢 <b>Seeking Summer 2027 research internships</b> in reliable LLMs, LLM evaluation, and agent safety.
+  🎓 <b>I will be on the job market in 2027</b> (PhD expected May 2028), for research scientist roles in reliable LLMs, LLM evaluation, and agent safety.
 </p>
 
 ---
@@ -46,9 +46,9 @@ My applied area is **clinical and biomedical AI**, where a confident error costs
 ### 📊 Research Impact
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Citations-985-2560B1?style=flat-square" alt="Citations">
-  <img src="https://img.shields.io/badge/h--index-13-2560B1?style=flat-square" alt="h-index">
-  <img src="https://img.shields.io/badge/Public%20Benchmarks-5%20(74k%2B%20records)-FFA500?style=flat-square" alt="Benchmarks">
+  <img src="https://img.shields.io/badge/Citations-985-1F3A5F?style=flat-square" alt="Citations">
+  <img src="https://img.shields.io/badge/h--index-13-1F3A5F?style=flat-square" alt="h-index">
+  <img src="https://img.shields.io/badge/Public%20Benchmarks-5%20(74k%2B%20records)-1F3A5F?style=flat-square" alt="Benchmarks">
 </p>
 
 - 🎉 **NeurIPS 2026** (Main Track, first author): *When Policies Cannot Be Retrained*
