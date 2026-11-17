@@ -11,7 +11,7 @@
 <h3 align="center">Machine Learning Researcher &nbsp;|&nbsp; PhD Candidate @ University of Central Florida</h3>
 
 <p align="center">
-  I build <b>inference-time methods</b> that make deployed LLMs, LLM judges, and agents <b>reliable without retraining them</b>.
+  Making deployed LLMs, LLM judges, and agents <b>reliable without retraining</b>.
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
-  🎉 First-author papers at <b>NeurIPS 2026</b> (Main Track) · <b>EACL 2027</b> (Main Conference) · <b>Findings of AACL-IJCNLP 2026</b>
+  🎉 First-author papers at <b>NeurIPS 2026</b> · <b>EACL 2027</b> · <b>AACL 2026</b>
 </p>
 
 <p align="center">
-  🎓 <b>I will be on the job market in 2027</b> (PhD expected May 2028), for research scientist roles in reliable LLMs, LLM evaluation, and agent safety.
+  🎓 <b>On the job market in 2027</b> · PhD expected May 2028
 </p>
 
 ---
@@ -82,24 +82,18 @@ Each paper has a project page and a **one-minute narrated video** on [my website
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square" alt="vLLM">
-  <img src="https://img.shields.io/badge/RLHF%20%7C%20PPO%20%7C%20GRPO%20%7C%20DPO-6E40C9?style=flat-square" alt="Post-training">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-1F3A5F?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-1F3A5F?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face-1F3A5F?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/vLLM-1F3A5F?style=flat-square" alt="vLLM">
+  <img src="https://img.shields.io/badge/RLHF%20%7C%20PPO%20%7C%20GRPO%20%7C%20DPO-1F3A5F?style=flat-square" alt="Post-training">
+  <img src="https://img.shields.io/badge/scikit--learn-1F3A5F?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/FAISS-1F3A5F?style=flat-square&logo=meta&logoColor=white" alt="FAISS">
+  <img src="https://img.shields.io/badge/Docker-1F3A5F?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-1F3A5F?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/SQL-1F3A5F?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eliashossain001&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliashossain001&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 ---
 
